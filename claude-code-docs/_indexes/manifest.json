@@ -1,0 +1,2629 @@
+{
+  "downloaded_at": "2026-09-10T09:44:46.802208+00:00",
+  "ok": 437,
+  "failed": 0,
+  "pages": [
+    {
+      "url": "https://code.claude.com/docs/en/overview.md",
+      "path": "code.claude.com/docs/en/overview.md",
+      "bytes": 16629,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/how-claude-code-works.md",
+      "path": "code.claude.com/docs/en/how-claude-code-works.md",
+      "bytes": 19609,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/prompt-caching.md",
+      "path": "code.claude.com/docs/en/prompt-caching.md",
+      "bytes": 40852,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/memory.md",
+      "path": "code.claude.com/docs/en/memory.md",
+      "bytes": 37525,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/common-workflows.md",
+      "path": "code.claude.com/docs/en/common-workflows.md",
+      "bytes": 18996,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/quickstart.md",
+      "path": "code.claude.com/docs/en/quickstart.md",
+      "bytes": 13342,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/features-overview.md",
+      "path": "code.claude.com/docs/en/features-overview.md",
+      "bytes": 32367,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/sessions.md",
+      "path": "code.claude.com/docs/en/sessions.md",
+      "bytes": 38784,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/best-practices.md",
+      "path": "code.claude.com/docs/en/best-practices.md",
+      "bytes": 40068,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/remote-control.md",
+      "path": "code.claude.com/docs/en/remote-control.md",
+      "bytes": 62738,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/context-window.md",
+      "path": "code.claude.com/docs/en/context-window.md",
+      "bytes": 61504,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/computer-use.md",
+      "path": "code.claude.com/docs/en/computer-use.md",
+      "bytes": 12653,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/chrome.md",
+      "path": "code.claude.com/docs/en/chrome.md",
+      "bytes": 19587,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/jetbrains.md",
+      "path": "code.claude.com/docs/en/jetbrains.md",
+      "bytes": 12528,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-tag.md",
+      "path": "code.claude.com/docs/en/claude-tag.md",
+      "bytes": 991,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/prompt-library.md",
+      "path": "code.claude.com/docs/en/prompt-library.md",
+      "bytes": 56598,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/slack.md",
+      "path": "code.claude.com/docs/en/slack.md",
+      "bytes": 15675,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/vs-code.md",
+      "path": "code.claude.com/docs/en/vs-code.md",
+      "bytes": 66151,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-directory.md",
+      "path": "code.claude.com/docs/en/claude-directory.md",
+      "bytes": 99321,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/mobile.md",
+      "path": "code.claude.com/docs/en/mobile.md",
+      "bytes": 8882,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/routines.md",
+      "path": "code.claude.com/docs/en/routines.md",
+      "bytes": 33219,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-code-on-the-web.md",
+      "path": "code.claude.com/docs/en/claude-code-on-the-web.md",
+      "bytes": 39265,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/ultrareview.md",
+      "path": "code.claude.com/docs/en/ultrareview.md",
+      "bytes": 18537,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/web-quickstart.md",
+      "path": "code.claude.com/docs/en/web-quickstart.md",
+      "bytes": 22764,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/platforms.md",
+      "path": "code.claude.com/docs/en/platforms.md",
+      "bytes": 12499,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-ios-simulator.md",
+      "path": "code.claude.com/docs/en/desktop-ios-simulator.md",
+      "bytes": 12362,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-quickstart.md",
+      "path": "code.claude.com/docs/en/desktop-quickstart.md",
+      "bytes": 11429,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-linux.md",
+      "path": "code.claude.com/docs/en/desktop-linux.md",
+      "bytes": 11546,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop.md",
+      "path": "code.claude.com/docs/en/desktop.md",
+      "bytes": 101937,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-wsl.md",
+      "path": "code.claude.com/docs/en/desktop-wsl.md",
+      "bytes": 2962,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-security.md",
+      "path": "code.claude.com/docs/en/claude-security.md",
+      "bytes": 14005,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/code-review.md",
+      "path": "code.claude.com/docs/en/code-review.md",
+      "bytes": 34207,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/github-actions.md",
+      "path": "code.claude.com/docs/en/github-actions.md",
+      "bytes": 32984,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/security-guidance.md",
+      "path": "code.claude.com/docs/en/security-guidance.md",
+      "bytes": 20529,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agents.md",
+      "path": "code.claude.com/docs/en/agents.md",
+      "bytes": 8816,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/workflows.md",
+      "path": "code.claude.com/docs/en/workflows.md",
+      "bytes": 39615,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-teams.md",
+      "path": "code.claude.com/docs/en/agent-teams.md",
+      "bytes": 40971,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/sub-agents.md",
+      "path": "code.claude.com/docs/en/sub-agents.md",
+      "bytes": 113078,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/gitlab-ci-cd.md",
+      "path": "code.claude.com/docs/en/gitlab-ci-cd.md",
+      "bytes": 18835,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/github-enterprise-server.md",
+      "path": "code.claude.com/docs/en/github-enterprise-server.md",
+      "bytes": 23509,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/worktrees.md",
+      "path": "code.claude.com/docs/en/worktrees.md",
+      "bytes": 36635,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/cross-session-messaging.md",
+      "path": "code.claude.com/docs/en/cross-session-messaging.md",
+      "bytes": 40894,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/github-actions-cloud-providers.md",
+      "path": "code.claude.com/docs/en/github-actions-cloud-providers.md",
+      "bytes": 18972,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/mcp.md",
+      "path": "code.claude.com/docs/en/mcp.md",
+      "bytes": 113035,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/desktop-scheduled-tasks.md",
+      "path": "code.claude.com/docs/en/desktop-scheduled-tasks.md",
+      "bytes": 11841,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/skills.md",
+      "path": "code.claude.com/docs/en/skills.md",
+      "bytes": 109647,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/hooks-guide.md",
+      "path": "code.claude.com/docs/en/hooks-guide.md",
+      "bytes": 81859,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-view.md",
+      "path": "code.claude.com/docs/en/agent-view.md",
+      "bytes": 249764,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/mcp-quickstart.md",
+      "path": "code.claude.com/docs/en/mcp-quickstart.md",
+      "bytes": 25883,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/headless.md",
+      "path": "code.claude.com/docs/en/headless.md",
+      "bytes": 36066,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/goal.md",
+      "path": "code.claude.com/docs/en/goal.md",
+      "bytes": 15428,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/discover-plugins.md",
+      "path": "code.claude.com/docs/en/discover-plugins.md",
+      "bytes": 33950,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/troubleshoot-install.md",
+      "path": "code.claude.com/docs/en/troubleshoot-install.md",
+      "bytes": 63280,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/changelog.md",
+      "path": "code.claude.com/docs/en/changelog.md",
+      "bytes": 679797,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/deep-links.md",
+      "path": "code.claude.com/docs/en/deep-links.md",
+      "bytes": 14624,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/artifacts.md",
+      "path": "code.claude.com/docs/en/artifacts.md",
+      "bytes": 40529,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugins.md",
+      "path": "code.claude.com/docs/en/plugins.md",
+      "bytes": 30162,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/large-codebases.md",
+      "path": "code.claude.com/docs/en/large-codebases.md",
+      "bytes": 35714,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/troubleshooting.md",
+      "path": "code.claude.com/docs/en/troubleshooting.md",
+      "bytes": 13819,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/scheduled-tasks.md",
+      "path": "code.claude.com/docs/en/scheduled-tasks.md",
+      "bytes": 17141,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/channels.md",
+      "path": "code.claude.com/docs/en/channels.md",
+      "bytes": 23847,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/errors.md",
+      "path": "code.claude.com/docs/en/errors.md",
+      "bytes": 402528,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/admin-setup.md",
+      "path": "code.claude.com/docs/en/admin-setup.md",
+      "bytes": 41437,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/authentication.md",
+      "path": "code.claude.com/docs/en/authentication.md",
+      "bytes": 29535,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/setup.md",
+      "path": "code.claude.com/docs/en/setup.md",
+      "bytes": 31070,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/debug-your-config.md",
+      "path": "code.claude.com/docs/en/debug-your-config.md",
+      "bytes": 23694,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/third-party-integrations.md",
+      "path": "code.claude.com/docs/en/third-party-integrations.md",
+      "bytes": 13928,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/server-managed-settings.md",
+      "path": "code.claude.com/docs/en/server-managed-settings.md",
+      "bytes": 46110,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/managed-settings.md",
+      "path": "code.claude.com/docs/en/managed-settings.md",
+      "bytes": 64391,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/auto-mode-config.md",
+      "path": "code.claude.com/docs/en/auto-mode-config.md",
+      "bytes": 35791,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/network-config.md",
+      "path": "code.claude.com/docs/en/network-config.md",
+      "bytes": 39698,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/feature-availability.md",
+      "path": "code.claude.com/docs/en/feature-availability.md",
+      "bytes": 23063,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/managed-mcp.md",
+      "path": "code.claude.com/docs/en/managed-mcp.md",
+      "bytes": 50677,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/google-vertex-ai.md",
+      "path": "code.claude.com/docs/en/google-vertex-ai.md",
+      "bytes": 21480,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/amazon-bedrock.md",
+      "path": "code.claude.com/docs/en/amazon-bedrock.md",
+      "bytes": 42834,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/corporate-launcher.md",
+      "path": "code.claude.com/docs/en/corporate-launcher.md",
+      "bytes": 13330,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/microsoft-foundry.md",
+      "path": "code.claude.com/docs/en/microsoft-foundry.md",
+      "bytes": 10573,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/devcontainer.md",
+      "path": "code.claude.com/docs/en/devcontainer.md",
+      "bytes": 18608,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-platform-on-aws.md",
+      "path": "code.claude.com/docs/en/claude-platform-on-aws.md",
+      "bytes": 18685,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/gateways.md",
+      "path": "code.claude.com/docs/en/gateways.md",
+      "bytes": 9286,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/llm-gateway.md",
+      "path": "code.claude.com/docs/en/llm-gateway.md",
+      "bytes": 6182,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway-spend-limits.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway-spend-limits.md",
+      "bytes": 18029,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway-deploy.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway-deploy.md",
+      "bytes": 69931,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/llm-gateway-connect.md",
+      "path": "code.claude.com/docs/en/llm-gateway-connect.md",
+      "bytes": 54157,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway-config.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway-config.md",
+      "bytes": 118335,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway-on-aws.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway-on-aws.md",
+      "bytes": 51083,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway-on-gcp.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway-on-gcp.md",
+      "bytes": 25008,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/llm-gateway-rollout.md",
+      "path": "code.claude.com/docs/en/llm-gateway-rollout.md",
+      "bytes": 32752,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugin-marketplaces.md",
+      "path": "code.claude.com/docs/en/plugin-marketplaces.md",
+      "bytes": 117783,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/costs.md",
+      "path": "code.claude.com/docs/en/costs.md",
+      "bytes": 41617,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/analytics.md",
+      "path": "code.claude.com/docs/en/analytics.md",
+      "bytes": 12545,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/claude-apps-gateway.md",
+      "path": "code.claude.com/docs/en/claude-apps-gateway.md",
+      "bytes": 58757,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugin-dependencies.md",
+      "path": "code.claude.com/docs/en/plugin-dependencies.md",
+      "bytes": 24396,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/settings.md",
+      "path": "code.claude.com/docs/en/settings.md",
+      "bytes": 58564,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/security.md",
+      "path": "code.claude.com/docs/en/security.md",
+      "bytes": 12878,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/communications-kit.md",
+      "path": "code.claude.com/docs/en/communications-kit.md",
+      "bytes": 25716,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/zero-data-retention.md",
+      "path": "code.claude.com/docs/en/zero-data-retention.md",
+      "bytes": 9038,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/monitoring-usage.md",
+      "path": "code.claude.com/docs/en/monitoring-usage.md",
+      "bytes": 139839,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/llm-gateway-protocol.md",
+      "path": "code.claude.com/docs/en/llm-gateway-protocol.md",
+      "bytes": 34879,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/data-usage.md",
+      "path": "code.claude.com/docs/en/data-usage.md",
+      "bytes": 22277,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/settings-reference.md",
+      "path": "code.claude.com/docs/en/settings-reference.md",
+      "bytes": 434670,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugin-relevance.md",
+      "path": "code.claude.com/docs/en/plugin-relevance.md",
+      "bytes": 15665,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugin-hints.md",
+      "path": "code.claude.com/docs/en/plugin-hints.md",
+      "bytes": 10007,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/permissions.md",
+      "path": "code.claude.com/docs/en/permissions.md",
+      "bytes": 79884,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/champion-kit.md",
+      "path": "code.claude.com/docs/en/champion-kit.md",
+      "bytes": 21930,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/permission-modes.md",
+      "path": "code.claude.com/docs/en/permission-modes.md",
+      "bytes": 80189,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/settings-example.md",
+      "path": "code.claude.com/docs/en/settings-example.md",
+      "bytes": 15669,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/model-config.md",
+      "path": "code.claude.com/docs/en/model-config.md",
+      "bytes": 110275,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/sandboxing.md",
+      "path": "code.claude.com/docs/en/sandboxing.md",
+      "bytes": 75062,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments.md",
+      "bytes": 20071,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-quickstart.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-quickstart.md",
+      "bytes": 11691,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/sandbox-environments.md",
+      "path": "code.claude.com/docs/en/sandbox-environments.md",
+      "bytes": 19894,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-testing.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-testing.md",
+      "bytes": 15651,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-configuration.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-configuration.md",
+      "bytes": 53114,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-identity.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-identity.md",
+      "bytes": 25388,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-reference.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-reference.md",
+      "bytes": 86490,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/cloud-environments.md",
+      "path": "code.claude.com/docs/en/cloud-environments.md",
+      "bytes": 65147,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/fast-mode.md",
+      "path": "code.claude.com/docs/en/fast-mode.md",
+      "bytes": 18884,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/output-styles.md",
+      "path": "code.claude.com/docs/en/output-styles.md",
+      "bytes": 11621,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/self-hosted-environments-deploy.md",
+      "path": "code.claude.com/docs/en/self-hosted-environments-deploy.md",
+      "bytes": 60811,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/terminal-config.md",
+      "path": "code.claude.com/docs/en/terminal-config.md",
+      "bytes": 26456,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/fullscreen.md",
+      "path": "code.claude.com/docs/en/fullscreen.md",
+      "bytes": 32535,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/accessibility.md",
+      "path": "code.claude.com/docs/en/accessibility.md",
+      "bytes": 14604,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/voice-dictation.md",
+      "path": "code.claude.com/docs/en/voice-dictation.md",
+      "bytes": 16962,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/keybindings.md",
+      "path": "code.claude.com/docs/en/keybindings.md",
+      "bytes": 44158,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/statusline.md",
+      "path": "code.claude.com/docs/en/statusline.md",
+      "bytes": 79133,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/checkpointing.md",
+      "path": "code.claude.com/docs/en/checkpointing.md",
+      "bytes": 7921,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/advisor.md",
+      "path": "code.claude.com/docs/en/advisor.md",
+      "bytes": 18362,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/interactive-mode.md",
+      "path": "code.claude.com/docs/en/interactive-mode.md",
+      "bytes": 90000,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/cli-reference.md",
+      "path": "code.claude.com/docs/en/cli-reference.md",
+      "bytes": 113300,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/commands.md",
+      "path": "code.claude.com/docs/en/commands.md",
+      "bytes": 175106,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/quickstart.md",
+      "path": "code.claude.com/docs/en/agent-sdk/quickstart.md",
+      "bytes": 15237,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/env-vars.md",
+      "path": "code.claude.com/docs/en/env-vars.md",
+      "bytes": 484329,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/tools-reference.md",
+      "path": "code.claude.com/docs/en/tools-reference.md",
+      "bytes": 106766,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/troubleshooting.md",
+      "path": "code.claude.com/docs/en/agent-sdk/troubleshooting.md",
+      "bytes": 11198,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/hooks.md",
+      "path": "code.claude.com/docs/en/hooks.md",
+      "bytes": 319955,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/glossary.md",
+      "path": "code.claude.com/docs/en/glossary.md",
+      "bytes": 23506,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/agent-loop.md",
+      "path": "code.claude.com/docs/en/agent-sdk/agent-loop.md",
+      "bytes": 49605,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/claude-code-features.md",
+      "path": "code.claude.com/docs/en/agent-sdk/claude-code-features.md",
+      "bytes": 29536,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/overview.md",
+      "path": "code.claude.com/docs/en/agent-sdk/overview.md",
+      "bytes": 9408,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/streaming-vs-single-mode.md",
+      "path": "code.claude.com/docs/en/agent-sdk/streaming-vs-single-mode.md",
+      "bytes": 9277,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/plugins-reference.md",
+      "path": "code.claude.com/docs/en/plugins-reference.md",
+      "bytes": 118247,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/channels-reference.md",
+      "path": "code.claude.com/docs/en/channels-reference.md",
+      "bytes": 50258,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/structured-outputs.md",
+      "path": "code.claude.com/docs/en/agent-sdk/structured-outputs.md",
+      "bytes": 21249,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/user-input.md",
+      "path": "code.claude.com/docs/en/agent-sdk/user-input.md",
+      "bytes": 39717,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/migration-guide.md",
+      "path": "code.claude.com/docs/en/agent-sdk/migration-guide.md",
+      "bytes": 7356,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/streaming-output.md",
+      "path": "code.claude.com/docs/en/agent-sdk/streaming-output.md",
+      "bytes": 14833,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/tool-search.md",
+      "path": "code.claude.com/docs/en/agent-sdk/tool-search.md",
+      "bytes": 12790,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/plugins.md",
+      "path": "code.claude.com/docs/en/agent-sdk/plugins.md",
+      "bytes": 12053,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/subagents.md",
+      "path": "code.claude.com/docs/en/agent-sdk/subagents.md",
+      "bytes": 45403,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/mcp.md",
+      "path": "code.claude.com/docs/en/agent-sdk/mcp.md",
+      "bytes": 35899,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/modifying-system-prompts.md",
+      "path": "code.claude.com/docs/en/agent-sdk/modifying-system-prompts.md",
+      "bytes": 27675,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/hooks.md",
+      "path": "code.claude.com/docs/en/agent-sdk/hooks.md",
+      "bytes": 55469,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/skills.md",
+      "path": "code.claude.com/docs/en/agent-sdk/skills.md",
+      "bytes": 26976,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/permissions.md",
+      "path": "code.claude.com/docs/en/agent-sdk/permissions.md",
+      "bytes": 25000,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/custom-tools.md",
+      "path": "code.claude.com/docs/en/agent-sdk/custom-tools.md",
+      "bytes": 41393,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/cost-tracking.md",
+      "path": "code.claude.com/docs/en/agent-sdk/cost-tracking.md",
+      "bytes": 26882,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/todo-tracking.md",
+      "path": "code.claude.com/docs/en/agent-sdk/todo-tracking.md",
+      "bytes": 19208,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/file-checkpointing.md",
+      "path": "code.claude.com/docs/en/agent-sdk/file-checkpointing.md",
+      "bytes": 33394,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/observability.md",
+      "path": "code.claude.com/docs/en/agent-sdk/observability.md",
+      "bytes": 19974,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/secure-deployment.md",
+      "path": "code.claude.com/docs/en/agent-sdk/secure-deployment.md",
+      "bytes": 24211,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/hosting.md",
+      "path": "code.claude.com/docs/en/agent-sdk/hosting.md",
+      "bytes": 25318,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/typescript-v2-preview.md",
+      "path": "code.claude.com/docs/en/agent-sdk/typescript-v2-preview.md",
+      "bytes": 12266,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w34.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w34.md",
+      "bytes": 8432,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/index.md",
+      "path": "code.claude.com/docs/en/whats-new/index.md",
+      "bytes": 14051,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w33.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w33.md",
+      "bytes": 7554,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w30.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w30.md",
+      "bytes": 7002,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/examples.md",
+      "path": "code.claude.com/docs/en/agent-sdk/examples.md",
+      "bytes": 1960,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w29.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w29.md",
+      "bytes": 5449,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/sessions.md",
+      "path": "code.claude.com/docs/en/agent-sdk/sessions.md",
+      "bytes": 23890,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w28.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w28.md",
+      "bytes": 4309,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/python.md",
+      "path": "code.claude.com/docs/en/agent-sdk/python.md",
+      "bytes": 198289,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/session-storage.md",
+      "path": "code.claude.com/docs/en/agent-sdk/session-storage.md",
+      "bytes": 24363,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/agent-sdk/typescript.md",
+      "path": "code.claude.com/docs/en/agent-sdk/typescript.md",
+      "bytes": 356693,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w26.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w26.md",
+      "bytes": 4456,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w32.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w32.md",
+      "bytes": 8737,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w25.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w25.md",
+      "bytes": 5365,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w24.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w24.md",
+      "bytes": 5354,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w27.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w27.md",
+      "bytes": 6804,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w22.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w22.md",
+      "bytes": 7371,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w21.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w21.md",
+      "bytes": 4333,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w20.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w20.md",
+      "bytes": 6858,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w15.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w15.md",
+      "bytes": 7364,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w16.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w16.md",
+      "bytes": 8932,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w17.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w17.md",
+      "bytes": 7272,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/home.md",
+      "path": "platform.claude.com/docs/en/home.md",
+      "bytes": 11776,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w13.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w13.md",
+      "bytes": 7992,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w23.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w23.md",
+      "bytes": 6586,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/legal-and-compliance.md",
+      "path": "code.claude.com/docs/en/legal-and-compliance.md",
+      "bytes": 6149,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/agent-skills/overview.md",
+      "bytes": 21371,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/overview.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/overview.md",
+      "bytes": 29221,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/get-started.md",
+      "path": "platform.claude.com/docs/en/get-started.md",
+      "bytes": 19458,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart.md",
+      "bytes": 37070,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/quickstart.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/quickstart.md",
+      "bytes": 11443,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/overview.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/overview.md",
+      "bytes": 19697,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/overview.md",
+      "bytes": 38176,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/intro.md",
+      "path": "platform.claude.com/docs/en/intro.md",
+      "bytes": 5768,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/concepts.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/concepts.md",
+      "bytes": 9824,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w14.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w14.md",
+      "bytes": 7906,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/authentication.md",
+      "path": "platform.claude.com/docs/en/manage-claude/authentication.md",
+      "bytes": 25020,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/advisor-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/advisor-tool.md",
+      "bytes": 97089,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/batch-processing.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/batch-processing.md",
+      "bytes": 73570,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-in-amazon-bedrock.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/claude-in-amazon-bedrock.md",
+      "bytes": 20397,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/bash-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/bash-tool.md",
+      "bytes": 71278,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/cache-diagnostics.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/cache-diagnostics.md",
+      "bytes": 48968,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-on-vertex-ai.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/claude-on-vertex-ai.md",
+      "bytes": 32635,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-in-microsoft-foundry.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/claude-in-microsoft-foundry.md",
+      "bytes": 37242,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-on-amazon-bedrock-legacy.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/claude-on-amazon-bedrock-legacy.md",
+      "bytes": 40298,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/citations.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/citations.md",
+      "bytes": 74765,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool.md",
+      "bytes": 105269,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w18.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w18.md",
+      "bytes": 6692,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/mid-conversation-effort-example.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/mid-conversation-effort-example.md",
+      "bytes": 165002,
+      "ok": true
+    },
+    {
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w19.md",
+      "path": "code.claude.com/docs/en/whats-new/2026-w19.md",
+      "bytes": 4609,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws.md",
+      "bytes": 86337,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool.md",
+      "bytes": 60310,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/vision-coordinates.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/vision-coordinates.md",
+      "bytes": 35358,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/define-tools.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/define-tools.md",
+      "bytes": 37555,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/context-windows.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/context-windows.md",
+      "bytes": 15957,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/deploy-compose.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/deploy-compose.md",
+      "bytes": 22754,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/compaction.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/compaction.md",
+      "bytes": 111508,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/deploy-helm.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/deploy-helm.md",
+      "bytes": 24359,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/embeddings.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/embeddings.md",
+      "bytes": 22917,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool.md",
+      "bytes": 115653,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/effort.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/effort.md",
+      "bytes": 35309,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/context-editing.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/context-editing.md",
+      "bytes": 104282,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/fast-mode.md",
+      "bytes": 27680,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/fallback-credit.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/fallback-credit.md",
+      "bytes": 32699,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/get-api-key.md",
+      "path": "platform.claude.com/docs/en/get-api-key.md",
+      "bytes": 4426,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/handle-tool-calls.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/handle-tool-calls.md",
+      "bytes": 13434,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/extended-thinking.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/extended-thinking.md",
+      "bytes": 22118,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works.md",
+      "bytes": 11363,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md",
+      "bytes": 13706,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/fine-grained-tool-streaming.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/fine-grained-tool-streaming.md",
+      "bytes": 35555,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/manage-tool-context.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/manage-tool-context.md",
+      "bytes": 5501,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/files.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/files.md",
+      "bytes": 37512,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/console.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/console.md",
+      "bytes": 14057,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-connector.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-connector.md",
+      "bytes": 49439,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/security.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/security.md",
+      "bytes": 5613,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/multilingual-support.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/multilingual-support.md",
+      "bytes": 9206,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/pdf-support.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/pdf-support.md",
+      "bytes": 61972,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/reference.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/reference.md",
+      "bytes": 12717,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/mid-conversation-system-messages.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/mid-conversation-system-messages.md",
+      "bytes": 59371,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool.md",
+      "bytes": 39651,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/parallel-tool-use.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/parallel-tool-use.md",
+      "bytes": 54783,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling.md",
+      "bytes": 61839,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/preserved-thinking.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/preserved-thinking.md",
+      "bytes": 65792,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-caching.md",
+      "bytes": 157448,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/remote-mcp-servers.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/remote-mcp-servers.md",
+      "bytes": 1756,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/refusals-and-fallback.md",
+      "bytes": 57609,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/server-tools.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/server-tools.md",
+      "bytes": 44401,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices.md",
+      "bytes": 41971,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/enterprise.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/agent-skills/enterprise.md",
+      "bytes": 16270,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/thinking-steering-and-cost.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/thinking-steering-and-cost.md",
+      "bytes": 41336,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/strict-tool-use.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/strict-tool-use.md",
+      "bytes": 40202,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/search-results.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/search-results.md",
+      "bytes": 83838,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/task-budgets.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/task-budgets.md",
+      "bytes": 28248,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/streaming.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/streaming.md",
+      "bytes": 50803,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/thinking.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/thinking.md",
+      "bytes": 71829,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/structured-outputs.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/structured-outputs.md",
+      "bytes": 110492,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool.md",
+      "bytes": 81068,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/handling-stop-reasons.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/handling-stop-reasons.md",
+      "bytes": 121102,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/thinking-tool-workflows.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/thinking-tool-workflows.md",
+      "bytes": 32088,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/token-counting.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/token-counting.md",
+      "bytes": 43398,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-reference.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/tool-reference.md",
+      "bytes": 19045,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-combinations.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/tool-combinations.md",
+      "bytes": 6170,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-use-with-prompt-caching.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/tool-use-with-prompt-caching.md",
+      "bytes": 11881,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/troubleshooting.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/troubleshooting.md",
+      "bytes": 10316,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool.md",
+      "bytes": 35785,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/thinking-troubleshooting.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/thinking-troubleshooting.md",
+      "bytes": 16825,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/troubleshooting-tool-use.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/troubleshooting-tool-use.md",
+      "bytes": 15261,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-runner.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/tool-runner.md",
+      "bytes": 63739,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/working-with-messages.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/working-with-messages.md",
+      "bytes": 32828,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool.md",
+      "bytes": 35796,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/build-a-tool-using-agent.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/build-a-tool-using-agent.md",
+      "bytes": 163318,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/vision.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/vision.md",
+      "bytes": 47745,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/overview.md",
+      "path": "platform.claude.com/docs/en/managed-agents/overview.md",
+      "bytes": 7480,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/quickstart.md",
+      "path": "platform.claude.com/docs/en/managed-agents/quickstart.md",
+      "bytes": 30930,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool.md",
+      "bytes": 28272,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/github.md",
+      "path": "platform.claude.com/docs/en/managed-agents/github.md",
+      "bytes": 28034,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/onboarding.md",
+      "path": "platform.claude.com/docs/en/managed-agents/onboarding.md",
+      "bytes": 4347,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/files.md",
+      "path": "platform.claude.com/docs/en/managed-agents/files.md",
+      "bytes": 22036,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/vaults.md",
+      "path": "platform.claude.com/docs/en/managed-agents/vaults.md",
+      "bytes": 46428,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/skills-guide.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/skills-guide.md",
+      "bytes": 147560,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/cloud-sandboxes-reference.md",
+      "path": "platform.claude.com/docs/en/managed-agents/cloud-sandboxes-reference.md",
+      "bytes": 5407,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/define-outcomes.md",
+      "path": "platform.claude.com/docs/en/managed-agents/define-outcomes.md",
+      "bytes": 32522,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/agent-setup.md",
+      "path": "platform.claude.com/docs/en/managed-agents/agent-setup.md",
+      "bytes": 31379,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/environments.md",
+      "path": "platform.claude.com/docs/en/managed-agents/environments.md",
+      "bytes": 23319,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/dreams.md",
+      "path": "platform.claude.com/docs/en/managed-agents/dreams.md",
+      "bytes": 24985,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/mcp-connector.md",
+      "path": "platform.claude.com/docs/en/managed-agents/mcp-connector.md",
+      "bytes": 16775,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-security.md",
+      "path": "platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-security.md",
+      "bytes": 5044,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/scheduled-deployments.md",
+      "path": "platform.claude.com/docs/en/managed-agents/scheduled-deployments.md",
+      "bytes": 24953,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/migration.md",
+      "path": "platform.claude.com/docs/en/managed-agents/migration.md",
+      "bytes": 51643,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/permission-policies.md",
+      "path": "platform.claude.com/docs/en/managed-agents/permission-policies.md",
+      "bytes": 32049,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/reference.md",
+      "path": "platform.claude.com/docs/en/managed-agents/reference.md",
+      "bytes": 21451,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/budgets.md",
+      "path": "platform.claude.com/docs/en/managed-agents/budgets.md",
+      "bytes": 22524,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/skills.md",
+      "path": "platform.claude.com/docs/en/managed-agents/skills.md",
+      "bytes": 22699,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration.md",
+      "path": "platform.claude.com/docs/en/managed-agents/multiagent-orchestration.md",
+      "bytes": 60514,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/session-operations.md",
+      "path": "platform.claude.com/docs/en/managed-agents/session-operations.md",
+      "bytes": 25643,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/sessions.md",
+      "path": "platform.claude.com/docs/en/managed-agents/sessions.md",
+      "bytes": 41051,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/webhooks.md",
+      "path": "platform.claude.com/docs/en/managed-agents/webhooks.md",
+      "bytes": 32021,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes.md",
+      "path": "platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes.md",
+      "bytes": 112408,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/events-and-streaming.md",
+      "path": "platform.claude.com/docs/en/managed-agents/events-and-streaming.md",
+      "bytes": 116883,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/tools.md",
+      "path": "platform.claude.com/docs/en/managed-agents/tools.md",
+      "bytes": 40606,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/analytics-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/analytics-api.md",
+      "bytes": 11472,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/access-transparency.md",
+      "path": "platform.claude.com/docs/en/manage-claude/access-transparency.md",
+      "bytes": 20738,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/app-attest.md",
+      "path": "platform.claude.com/docs/en/manage-claude/app-attest.md",
+      "bytes": 4075,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/managed-agents/memory.md",
+      "path": "platform.claude.com/docs/en/managed-agents/memory.md",
+      "bytes": 46580,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/api-and-data-retention.md",
+      "path": "platform.claude.com/docs/en/manage-claude/api-and-data-retention.md",
+      "bytes": 57524,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-faq.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-faq.md",
+      "bytes": 25274,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/claude-code-analytics-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/claude-code-analytics-api.md",
+      "bytes": 12986,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/admin-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/admin-api.md",
+      "bytes": 54835,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/cmek-aws-kms.md",
+      "path": "platform.claude.com/docs/en/manage-claude/cmek-aws-kms.md",
+      "bytes": 35081,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-api.md",
+      "bytes": 9967,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/admin-api-keys.md",
+      "path": "platform.claude.com/docs/en/manage-claude/admin-api-keys.md",
+      "bytes": 15389,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/cmek-azure-key-vault.md",
+      "path": "platform.claude.com/docs/en/manage-claude/cmek-azure-key-vault.md",
+      "bytes": 23695,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/data-residency.md",
+      "path": "platform.claude.com/docs/en/manage-claude/data-residency.md",
+      "bytes": 14916,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/cmek.md",
+      "path": "platform.claude.com/docs/en/manage-claude/cmek.md",
+      "bytes": 16751,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/inference-hooks-configuration.md",
+      "path": "platform.claude.com/docs/en/manage-claude/inference-hooks-configuration.md",
+      "bytes": 17660,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/cmek-google-cloud-kms.md",
+      "path": "platform.claude.com/docs/en/manage-claude/cmek-google-cloud-kms.md",
+      "bytes": 21217,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/inference-hooks.md",
+      "path": "platform.claude.com/docs/en/manage-claude/inference-hooks.md",
+      "bytes": 8378,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-errors.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-errors.md",
+      "bytes": 40137,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/inference-hooks-endpoint.md",
+      "path": "platform.claude.com/docs/en/manage-claude/inference-hooks-endpoint.md",
+      "bytes": 42026,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-org-data.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-org-data.md",
+      "bytes": 22602,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-activity-feed.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-activity-feed.md",
+      "bytes": 16181,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-integration-patterns.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-integration-patterns.md",
+      "bytes": 17534,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-content-data.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-content-data.md",
+      "bytes": 24016,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-admin-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-admin-api.md",
+      "bytes": 46716,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/rate-limits-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/rate-limits-api.md",
+      "bytes": 27284,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-api-access.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-api-access.md",
+      "bytes": 16601,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/usage-cost-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/usage-cost-api.md",
+      "bytes": 16702,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/spend-limits-api.md",
+      "path": "platform.claude.com/docs/en/manage-claude/spend-limits-api.md",
+      "bytes": 25864,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/github-actions.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/github-actions.md",
+      "bytes": 14488,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/compliance-sessions.md",
+      "path": "platform.claude.com/docs/en/manage-claude/compliance-sessions.md",
+      "bytes": 49419,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/aws.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/aws.md",
+      "bytes": 32578,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/gcp.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/gcp.md",
+      "bytes": 20355,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/okta.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/okta.md",
+      "bytes": 21986,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/kubernetes.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/kubernetes.md",
+      "bytes": 14395,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/workload-identity-federation.md",
+      "path": "platform.claude.com/docs/en/manage-claude/workload-identity-federation.md",
+      "bytes": 25696,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/spiffe.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/spiffe.md",
+      "bytes": 30461,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview.md",
+      "bytes": 2746,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/additional-resources.md",
+      "path": "platform.claude.com/docs/en/about-claude/additional-resources.md",
+      "bytes": 1512,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-reference.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-reference.md",
+      "bytes": 45609,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/overview.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/overview.md",
+      "bytes": 2486,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/user-management.md",
+      "path": "platform.claude.com/docs/en/manage-claude/user-management.md",
+      "bytes": 36774,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/commerce-agents.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/commerce-agents.md",
+      "bytes": 9309,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/wif-providers/azure.md",
+      "path": "platform.claude.com/docs/en/manage-claude/wif-providers/azure.md",
+      "bytes": 64978,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/workspaces.md",
+      "path": "platform.claude.com/docs/en/manage-claude/workspaces.md",
+      "bytes": 44117,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/content-moderation.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/content-moderation.md",
+      "bytes": 115096,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency.md",
+      "bytes": 13947,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md",
+      "bytes": 11898,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/glossary.md",
+      "path": "platform.claude.com/docs/en/about-claude/glossary.md",
+      "bytes": 9265,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5.md",
+      "bytes": 19059,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/legal-summarization.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/legal-summarization.md",
+      "bytes": 22212,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5.md",
+      "bytes": 12465,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-4-8.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-4-8.md",
+      "bytes": 16595,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1.md",
+      "bytes": 54572,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices.md",
+      "bytes": 64218,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/customer-support-chat.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/customer-support-chat.md",
+      "bytes": 55236,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/develop-tests.md",
+      "bytes": 137666,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md",
+      "bytes": 3898,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md",
+      "bytes": 3394,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/ticket-routing.md",
+      "path": "platform.claude.com/docs/en/about-claude/use-case-guides/ticket-routing.md",
+      "bytes": 30030,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-latency.md",
+      "path": "platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-latency.md",
+      "bytes": 9718,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5.md",
+      "path": "platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5.md",
+      "bytes": 16479,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/fable-5/overview.md",
+      "bytes": 12845,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/mythos-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/mythos-5/overview.md",
+      "bytes": 10875,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/haiku-4-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/haiku-4-5/overview.md",
+      "bytes": 13597,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/mythos-5-1/overview.md",
+      "path": "platform.claude.com/docs/en/models/mythos-5-1/overview.md",
+      "bytes": 10918,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5-1/overview.md",
+      "path": "platform.claude.com/docs/en/models/fable-5-1/overview.md",
+      "bytes": 14914,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-4-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/opus-4-5/overview.md",
+      "bytes": 12199,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-4-6/overview.md",
+      "path": "platform.claude.com/docs/en/models/opus-4-6/overview.md",
+      "bytes": 12572,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/sonnet-4-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/sonnet-4-5/overview.md",
+      "bytes": 12262,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-4-8/overview.md",
+      "path": "platform.claude.com/docs/en/models/opus-4-8/overview.md",
+      "bytes": 12068,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/resources/overview.md",
+      "path": "platform.claude.com/docs/en/resources/overview.md",
+      "bytes": 3554,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/overview.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/overview.md",
+      "bytes": 3858,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-4-7/overview.md",
+      "path": "platform.claude.com/docs/en/models/opus-4-7/overview.md",
+      "bytes": 11882,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/opus-5/overview.md",
+      "bytes": 12624,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/sonnet-4-6/overview.md",
+      "path": "platform.claude.com/docs/en/models/sonnet-4-6/overview.md",
+      "bytes": 12638,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/sonnet-5/overview.md",
+      "path": "platform.claude.com/docs/en/models/sonnet-5/overview.md",
+      "bytes": 13348,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/models/choosing-a-model.md",
+      "path": "platform.claude.com/docs/en/about-claude/models/choosing-a-model.md",
+      "bytes": 8095,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-fable-5-1.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-fable-5-1.md",
+      "bytes": 28359,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-fable-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-fable-5.md",
+      "bytes": 22414,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/overview.md",
+      "path": "platform.claude.com/docs/en/models/overview.md",
+      "bytes": 16851,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-1.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-1.md",
+      "bytes": 18974,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-3.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-3.md",
+      "bytes": 1116,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-3-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-3-5.md",
+      "bytes": 21598,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-8.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-8.md",
+      "bytes": 23051,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-3.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-3.md",
+      "bytes": 2519,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-5.md",
+      "bytes": 32564,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-4-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-4-5.md",
+      "bytes": 42876,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-6.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-6.md",
+      "bytes": 19116,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-7.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4-7.md",
+      "bytes": 24493,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-4.md",
+      "bytes": 44384,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-opus-5.md",
+      "bytes": 22267,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-5.md",
+      "bytes": 68601,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4.md",
+      "bytes": 44398,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-7.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-7.md",
+      "bytes": 13247,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/haiku-4-5/migration-guide.md",
+      "path": "platform.claude.com/docs/en/models/haiku-4-5/migration-guide.md",
+      "bytes": 5021,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/models/migration-guide.md",
+      "path": "platform.claude.com/docs/en/about-claude/models/migration-guide.md",
+      "bytes": 1150,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4-6.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4-6.md",
+      "bytes": 19495,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/sonnet-5/migration-guide.md",
+      "path": "platform.claude.com/docs/en/models/sonnet-5/migration-guide.md",
+      "bytes": 38352,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4-5.md",
+      "path": "platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-4-5.md",
+      "bytes": 42912,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations.md",
+      "path": "platform.claude.com/docs/en/about-claude/model-deprecations.md",
+      "bytes": 13514,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/models/model-ids-and-versions.md",
+      "path": "platform.claude.com/docs/en/about-claude/models/model-ids-and-versions.md",
+      "bytes": 4032,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-5/migration-guide.md",
+      "path": "platform.claude.com/docs/en/models/opus-5/migration-guide.md",
+      "bytes": 94684,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5-1/migration-guide.md",
+      "path": "platform.claude.com/docs/en/models/fable-5-1/migration-guide.md",
+      "bytes": 92620,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/models/optimizing-for-cost-and-intelligence.md",
+      "path": "platform.claude.com/docs/en/about-claude/models/optimizing-for-cost-and-intelligence.md",
+      "bytes": 121757,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1.md",
+      "path": "platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1.md",
+      "bytes": 37516,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/quickstart.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/cli/quickstart.md",
+      "bytes": 5120,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/sonnet-5/whats-new-sonnet-5.md",
+      "path": "platform.claude.com/docs/en/models/sonnet-5/whats-new-sonnet-5.md",
+      "bytes": 13195,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/opus-5/whats-new-opus-5.md",
+      "path": "platform.claude.com/docs/en/models/opus-5/whats-new-opus-5.md",
+      "bytes": 19127,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/authentication.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/cli/authentication.md",
+      "bytes": 8935,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/csharp.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/csharp.md",
+      "bytes": 15992,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/scripting.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/cli/scripting.md",
+      "bytes": 6188,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/overview.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/overview.md",
+      "bytes": 3645,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing.md",
+      "path": "platform.claude.com/docs/en/about-claude/pricing.md",
+      "bytes": 45051,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models.md",
+      "bytes": 15489,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/go.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/go.md",
+      "bytes": 26497,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/java.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/java.md",
+      "bytes": 47701,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/apply.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/cli/apply.md",
+      "bytes": 14451,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/openai-sdk.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/libraries/openai-sdk.md",
+      "bytes": 25991,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/ruby.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/ruby.md",
+      "bytes": 14756,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/typescript.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/typescript.md",
+      "bytes": 29447,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/using.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/cli/using.md",
+      "bytes": 13200,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/api/overview.md",
+      "path": "platform.claude.com/docs/en/api/overview.md",
+      "bytes": 21272,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/api/beta-headers.md",
+      "path": "platform.claude.com/docs/en/api/beta-headers.md",
+      "bytes": 7800,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/python.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/python.md",
+      "bytes": 26642,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/php.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/sdks/php.md",
+      "bytes": 9571,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/middleware.md",
+      "path": "platform.claude.com/docs/en/cli-sdks-libraries/middleware.md",
+      "bytes": 5966,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/api/errors.md",
+      "path": "platform.claude.com/docs/en/api/errors.md",
+      "bytes": 28324,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/api/versioning.md",
+      "path": "platform.claude.com/docs/en/api/versioning.md",
+      "bytes": 1806,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/api/rate-limits.md",
+      "path": "platform.claude.com/docs/en/api/rate-limits.md",
+      "bytes": 33086,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5/introducing-claude-fable-5-and-claude-mythos-5.md",
+      "path": "platform.claude.com/docs/en/models/fable-5/introducing-claude-fable-5-and-claude-mythos-5.md",
+      "bytes": 9914,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/claude-api-skill.md",
+      "path": "platform.claude.com/docs/en/agents-and-tools/agent-skills/claude-api-skill.md",
+      "bytes": 12375,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/claude_api_primer.md",
+      "path": "platform.claude.com/docs/en/claude_api_primer.md",
+      "bytes": 28147,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/models/fable-5/migration-guide.md",
+      "path": "platform.claude.com/docs/en/models/fable-5/migration-guide.md",
+      "bytes": 39507,
+      "ok": true
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/overview.md",
+      "path": "platform.claude.com/docs/en/release-notes/overview.md",
+      "bytes": 104296,
+      "ok": true
+    }
+  ]
+}

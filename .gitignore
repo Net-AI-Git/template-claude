@@ -1,0 +1,12 @@
+# Local, machine-specific Claude Code settings — never shared
+settings.local.json
+
+# VS Code extension installer (~86 MB binary, downloadable from Anthropic)
+*.vsix
+
+# Python bytecode from the reference implementation
+__pycache__/
+*.pyc
+
+# Machine-local state of the business-logic guard hook
+.business-logic-asked

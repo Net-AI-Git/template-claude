@@ -1,0 +1,38 @@
+# Reference Dockerfile — FastAPI service (long-running, serves HTTP)
+# Copy this file, replace <package_dir> and <app_module>, delete this header.
+#
+# Same build as the cron template. Three differences, all because the process stays up:
+#   - the port is declared
+#   - uvicorn is the command, and it binds 0.0.0.0 (not 127.0.0.1, or the pod is unreachable)
+#   - the app object is addressed as <app_module>:app
+#
+# Worker count is left to the platform. Do not add --workers without a measured
+# reason — see 03-code-quality.md Section 7.
+
+FROM        docker-local-repo.repo/general/builders/python:3.12.8 AS builder
+WORKDIR     /src
+
+ENV         PYTHONUNBUFFERED=1 \
+            PYTHONDONTWRITEBYTECODE=1
+
+COPY        requirements.txt ./
+RUN         pip3 install --timeout=1000 -r requirements.txt
+RUN         poetry config virtualenvs.in-project true
+
+COPY        pyproject.toml poetry.lock README.md ./
+RUN         poetry install --no-interaction --no-ansi --only main
+
+COPY        <package_dir> ./<package_dir>
+# --------------------------------------------------------------------
+FROM        docker-local-repo.repo/general/builders/python:3.12.8 AS runtime
+WORKDIR     /src
+
+ENV         PYTHONUNBUFFERED=1 \
+            PYTHONDONTWRITEBYTECODE=1
+
+COPY        --from=builder /src/.venv ./.venv
+COPY        --from=builder /src/<package_dir> ./<package_dir>
+
+EXPOSE      8000
+
+CMD         [".venv/bin/uvicorn", "<package_dir>.<app_module>:app", "--host", "0.0.0.0", "--port", "8000"]

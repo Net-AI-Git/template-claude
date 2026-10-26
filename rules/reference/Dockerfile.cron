@@ -1,0 +1,34 @@
+# Reference Dockerfile — cron service (one-shot: run, exit, no server)
+# Copy this file, replace <package_dir> and <entry_point>.py, delete this header.
+#
+# <entry_point>.py names the job: run_fund_matcher_cron.py, not main.py or run_cron.py.
+# Both stages set the ENV block. A runtime stage without PYTHONUNBUFFERED loses
+# buffered stdout when the job dies, which is exactly the output worth having.
+
+FROM        docker-local-repo.repo/general/builders/python:3.12.8 AS builder
+WORKDIR     /src
+
+ENV         PYTHONUNBUFFERED=1 \
+            PYTHONDONTWRITEBYTECODE=1
+
+COPY        requirements.txt ./
+RUN         pip3 install --timeout=1000 -r requirements.txt
+RUN         poetry config virtualenvs.in-project true
+
+COPY        pyproject.toml poetry.lock README.md ./
+RUN         poetry install --no-interaction --no-ansi --only main
+
+COPY        <package_dir> ./<package_dir>
+COPY        <entry_point>.py ./
+# --------------------------------------------------------------------
+FROM        docker-local-repo.repo/general/builders/python:3.12.8 AS runtime
+WORKDIR     /src
+
+ENV         PYTHONUNBUFFERED=1 \
+            PYTHONDONTWRITEBYTECODE=1
+
+COPY        --from=builder /src/.venv ./.venv
+COPY        --from=builder /src/<package_dir> ./<package_dir>
+COPY        --from=builder /src/<entry_point>.py ./
+
+CMD         [".venv/bin/python", "<entry_point>.py"]

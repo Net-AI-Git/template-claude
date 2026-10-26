@@ -1,0 +1,88 @@
+{
+  "outputStyle": "AI-Engineer",
+  "permissions": {
+    "ask": [
+      "Edit(**/docs/SDD/**)",
+      "Edit(**/docs/spec/**)",
+      "Edit(**/src/repositories/splunk_repository.py)",
+      "Edit(**/Dockerfile*)",
+      "Edit(**/docker-compose.yaml)",
+      "Edit(**/docker-compose.yml)",
+      "Edit(**/.dockerignore)",
+      "Edit(**/requirements.txt)",
+      "Edit(**/pyproject.toml)",
+      "Edit(**/poetry.lock)",
+
+      "Bash(rm *)",
+      "Bash(rmdir *)",
+      "Bash(del *)",
+      "Bash(git reset --hard *)",
+      "Bash(git clean *)",
+      "Bash(git checkout .)",
+      "Bash(git checkout -- *)",
+      "Bash(git restore *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+
+      "PowerShell(Remove-Item *)",
+      "PowerShell(git reset --hard *)",
+      "PowerShell(git clean *)",
+      "PowerShell(git checkout .)",
+      "PowerShell(git checkout -- *)",
+      "PowerShell(git restore *)",
+      "PowerShell(git commit *)",
+      "PowerShell(git push *)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/splunk_error_audit.py\"",
+            "timeout": 3600,
+            "statusMessage": "Pulling this run's Splunk errors"
+          }
+        ]
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/splunk_error_audit.py\"",
+            "timeout": 3600,
+            "statusMessage": "Pulling this run's Splunk errors"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "prompt",
+            "timeout": 3600,
+            "prompt": "$ARGUMENTS\n\nInspect last_assistant_message only. Return ok:false if it contains ANY request for the user to decide, clarify, confirm, choose between options, or approve something, that was not asked through the AskUserQuestion tool. Offers phrased as statements ('say the word and I'll do X', 'let me know which you prefer') count as requests. Pure status reports, findings, and completed work do not.\n\nWhen returning ok:false, the reason must instruct Claude to re-ask through AskUserQuestion: one atomic question per decision, 2-4 options each, the recommended option first with '(Recommended)' at the end of its label, no 'Other' option. Otherwise return ok:true."
+          },
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/rules_review.py\"",
+            "timeout": 3600,
+            "statusMessage": "Checking the change against .claude/rules/"
+          },
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/business_logic_guard.py\"",
+            "timeout": 3600,
+            "statusMessage": "Running the business-logic guard suites"
+          }
+        ]
+      }
+    ]
+  }
+}
